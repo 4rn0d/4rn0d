@@ -1,16 +1,30 @@
-## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rn0d&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**4rn0d/4rn0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm 4rn0d!
 
-Here are some ideas to get you started:
+I am a passionate CS Student at University of Sherbrooke.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4rn0d&layout=compact)
+
+## About Me
+
+- I'm currently pursuing my Bachelor's in Computer Science at University of Sherbrooke.
+- 19 year old canadian student
+- French/English.
+
+## My Tools
+[![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,figma,materialui,postman,git)](https://skillicons.dev)
+
+## My Coding Languages
+[![My Skills](https://skillicons.dev/icons?i=dart,cs,cpp,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,mysql)](https://skillicons.dev)
+
+#### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=angular,react,flutter,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,nodejs,spring,firebase)](https://skillicons.dev)
+
+## Currently Exploring
+- Learning Unity and game dev
+  - Exploring the ins and outs of Unity and its tools to create 2D plateformers
+  
+- Learning WebHooks
+  - Currently learning about WebHooks with Java SpringBoot
