@@ -1,4 +1,4 @@
-# Hi, I'm 4rn0d!
+# Hi, I'm Arnaud!
 
 I am a passionate CS Student at University of Sherbrooke.
 
