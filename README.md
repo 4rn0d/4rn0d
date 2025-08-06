@@ -17,7 +17,7 @@ I am a passionate CS Student at University of Sherbrooke.
 [![My Skills](https://skillicons.dev/icons?i=dart,mysql,python,java,cs,cpp,js,ts)](https://skillicons.dev)
 
 #### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=angular,react,flutter,discordjs,net,nodejs,spring,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,flutter,discordjs,net,nodejs,spring,firebase,prisma)](https://skillicons.dev)
 
 ## Currently Exploring
 - Learning Unity and game dev
