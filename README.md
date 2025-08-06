@@ -7,7 +7,7 @@ I am a passionate CS Student at University of Sherbrooke.
 ## About Me
 
 - I'm currently pursuing my Bachelor's in Computer Science at University of Sherbrooke.
-- 19 year old canadian student
+- 20 year old canadian student
 - French/English.
 
 ## My Tools
