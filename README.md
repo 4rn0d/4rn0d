@@ -11,7 +11,7 @@ I am a passionate CS Student at University of Sherbrooke.
 - French/English.
 
 ## My Tools
-[![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,vscode,visualstudio,unity,figma,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rider,webstorm,idea,vscode,visualstudio,unity,figma,materialui,androidstudio)](https://skillicons.dev)
 
 ## My Coding Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,mysql,python,java,cs,cpp,js,ts)](https://skillicons.dev)
